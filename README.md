@@ -1,5 +1,5 @@
 # NebulaNavigator
-A video game call Nebula Navigator
+Nebula Navigator
 Controls:
 1.F:Heal
 2.Left mouse button:explosion
